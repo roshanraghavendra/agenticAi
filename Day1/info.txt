@@ -1,0 +1,7 @@
+To compare models - https://artificialanalysis.ai/
+
+Day1 git repo - https://github.com/krishtheeba/AgenticAI.git
+
+Transformers - https://jalammar.github.io/illustrated-transformer/
+
+Day1 colab - https://colab.research.google.com/drive/1OcLZA63_AdccH6c496qh9PECXrV6w4Z3?usp=sharing#scrollTo=oPppjuVfrWzF 
