@@ -1,0 +1,26 @@
+Oracle Supply Chain Management Cloud - Manufacturing
+ 
+Scheduled Process Information
+    Name: Import Work Definitions
+    Process ID: 122526
+    Scheduled Time: 2026-03-30 09:49:54 PM US Pacific Time
+ 
+Scheduled Process Parameters
+    Batch: DH_57
+ 
+Scheduled Process Summary
+    Number of work definitions submitted for import: 1
+    Number of work definitions imported: 0
+    Number of work definitions with errors: 1
+    Number of subordinate scheduled processes: 1
+    Process ID for the subordinate scheduled processes: 122527
+ 
+Batch Summary
+    Batch Code            Batch Status          Number of Work Definitions              
+    --------------------  --------------------  ----------------------------------------
+    DH_57                 COMPLETED             Imported: 0, Not Imported: 1            
+ 
+Batch Details
+    Batch Code            Batch Status          Number of Work Definitions              
+    --------------------  --------------------  ----------------------------------------
+    DH_57                 COMPLETED             Imported: 0, Not Imported: 1            
