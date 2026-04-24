@@ -1,0 +1,3 @@
+Github - https://github.com/krishtheeba/AgenticAI/tree/main/Day5
+
+Colab - https://colab.research.google.com/drive/1W4yoeN4EkEU1CxmJqmieLVOkuCUuoZOT#scrollTo=pfpkcv9lwWYO
